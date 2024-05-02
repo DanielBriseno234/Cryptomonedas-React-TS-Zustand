@@ -33,7 +33,7 @@ Axios se utilizó para la petición a las Apis correspondientes, Zod se utilizó
 
 Para el desarollo de esta aplicación se hizo consultas a una Api de cryptomonedas.
 
-[Api Cryptomonedas][https://min-api.cryptocompare.com/]
+[Api Cryptomonedas](https://min-api.cryptocompare.com/)
 
 ## Prueba la Aplicación
 
